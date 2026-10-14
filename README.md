@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:16213E,70:0E7490,100:22D3EE&height=230&section=header&text=Yogesh%20Kumar&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Engineering%20Student%20%7C%20IoT%20%7C%20Software%20Development&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="Yogesh Kumar — technology and software development banner" />
 
   <h2>⚡ Building ideas into real projects.</h2>
@@ -165,4 +165,93 @@ I'm interested in connecting with students, makers, and developers who enjoy **I
   <h3>🌱 Keep learning. Keep building.</h3>
   <p><em>“Build. Test. Learn. Repeat.”</em></p>
   <sub>Thanks for stopping by! ⭐ Explore a repository if something catches your eye.</sub>
+</div> -->
+
+
+
+<div align="center">
+  <img src="assets/profile-banner.svg" alt="Yogesh Kumar — Hardware meets software" width="100%" />
+  <br />
+  <a href="https://github.com/1461yogesh?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-0B2233?style=for-the-badge&logo=github&logoColor=42E8D4" alt="Explore projects" /></a>
+  <a href="https://github.com/1461yogesh"><img src="https://img.shields.io/badge/Follow-1461yogesh-0B2233?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
 </div>
+
+## `whoami` 👋
+
+I'm **Yogesh Kumar**, an engineering student who enjoys turning ideas into working projects. My interests sit where **electronics, embedded systems, and software** meet—from connected-device experiments to database-backed web apps.
+
+- 🔌 **IoT & embedded systems** — microcontrollers, sensors, and home automation
+- 🌐 **Web development** — responsive interfaces, JavaScript, authentication, and databases
+- 🧠 **AI & Python** — exploring data-driven applications and practical AI integrations
+- 🔐 **Security-minded development** — learning about encryption, access policies, and responsible data handling
+
+> **My build loop:** understand the problem → make a working version → test it → document what I learned.
+
+## `toolbox` 🧰
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp&perline=7" alt="HTML, CSS, JavaScript, Python, Java, C, and C++" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=arduino,supabase,git,github,vscode&perline=5" alt="Arduino, Supabase, Git, GitHub, and VS Code" />
+</p>
+
+## `selected_builds` 🚀
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/1461yogesh/Smart-Home-Sense-Portfolio">Smart Home Sense</a></h3>
+      <p>Home automation concept using an ESP8266, a mobile-friendly control interface, and temperature/humidity monitoring.</p>
+      <sub>ESP8266 · IoT · Sensors · Home automation</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗃️ <a href="https://github.com/1461yogesh/Student-Record">Student Record System</a></h3>
+      <p>A cloud-connected record-management project built around creating, reading, updating, and deleting student records.</p>
+      <sub>JavaScript · Supabase · CRUD</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/1461yogesh/SavePass2">SavePass</a></h3>
+      <p>A password-manager project exploring client-side encryption and privacy-conscious credential management.</p>
+      <sub>JavaScript · Web Crypto concepts · Security</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/1461yogesh/Ceeri-Certificate">CEERI Certificate Page</a></h3>
+      <p>A responsive webpage presenting a semiconductor-training credential in a clean, accessible format.</p>
+      <sub>HTML · CSS · JavaScript</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://github.com/1461yogesh?tab=repositories">See all repositories →</a></p>
+
+## `currently_learning` 🌱
+
+- Making project READMEs clearer with setup steps, diagrams, and demos
+- Improving backend fundamentals, API design, and database security
+- Building more practical IoT and AI-powered prototypes
+
+## `github_activity` 📊
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1461yogesh&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1461yogesh&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Most-used languages in public repositories" />
+</p>
+
+## `connect` 🤝
+
+I'm always happy to connect with fellow students, makers, and developers interested in **IoT, embedded systems, AI, and useful software**.
+
+<p align="center">
+  <a href="https://github.com/1461yogesh"><img src="https://img.shields.io/badge/GitHub-1461yogesh-181717?style=flat-square&logo=github" alt="GitHub profile" /></a>
+  <a href="https://github.com/1461yogesh?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0E7490?style=flat-square&logo=github" alt="All projects" /></a>
+</p>
+
+<div align="center">
+  <sub>Build with curiosity. Debug with patience. Share what you learn.</sub>
+</div>
+
+
+
+
