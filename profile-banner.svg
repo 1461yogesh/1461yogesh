@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Yogesh Kumar — Hardware meets software</title>
+  <desc id="desc">A dark technical banner with cyan circuit traces, an amber accent, a terminal panel, and the message Build, test, learn, repeat.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111F"/>
+      <stop offset="55%" stop-color="#0B2233"/>
+      <stop offset="100%" stop-color="#102D3B"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#42E8D4"/>
+      <stop offset="100%" stop-color="#70B8FF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#9DDFFF" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="24" fill="url(#grid)"/>
+  <circle cx="1060" cy="76" r="185" fill="#2DD4BF" opacity=".07"/>
+  <circle cx="1200" cy="295" r="160" fill="#60A5FA" opacity=".07"/>
+  <g fill="none" stroke="#35D8D0" stroke-width="2" stroke-opacity=".48">
+    <path d="M710 42H820V74H900V110H990"/>
+    <path d="M760 280H830V250H920V218H1000"/>
+    <path d="M875 150H935V172H1030V146H1120"/>
+    <path d="M1080 44V82H1135V104H1215"/>
+    <path d="M1090 260V230H1160V208H1230"/>
+  </g>
+  <g fill="#42E8D4">
+    <circle cx="990" cy="110" r="4"/><circle cx="1000" cy="218" r="4"/><circle cx="1120" cy="146" r="4"/>
+    <circle cx="1215" cy="104" r="4"/><circle cx="1230" cy="208" r="4"/>
+  </g>
+  <rect x="800" y="91" width="395" height="166" rx="14" fill="#06101A" fill-opacity=".86" stroke="#55D9D0" stroke-opacity=".5"/>
+  <rect x="800" y="91" width="395" height="34" rx="14" fill="#132B3B"/>
+  <path d="M800 111V125H1195V111" fill="#132B3B"/>
+  <circle cx="822" cy="108" r="5" fill="#FB7185"/><circle cx="840" cy="108" r="5" fill="#FBBF24"/><circle cx="858" cy="108" r="5" fill="#34D399"/>
+  <text x="880" y="113" fill="#9CB9C9" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">yogesh@builder: ~/projects</text>
+  <text x="826" y="155" fill="#42E8D4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">$ whoami</text>
+  <text x="826" y="179" fill="#E7F5FF" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">engineer-in-progress</text>
+  <text x="826" y="207" fill="#42E8D4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">$ focus --today</text>
+  <text x="826" y="231" fill="#B7CCDA" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">IoT · Web · Embedded · AI</text>
+  <rect x="64" y="54" width="5" height="36" rx="2.5" fill="#F5B942"/>
+  <text x="88" y="80" fill="#9FB8C9" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" letter-spacing="4">ENGINEERING / BUILD LOG 001</text>
+  <text x="62" y="151" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="57" font-weight="750" letter-spacing="-1.5">Yogesh Kumar</text>
+  <text x="66" y="193" fill="url(#shine)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">Hardware meets software.</text>
+  <text x="66" y="231" fill="#C1D3DE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">I build practical projects across connected devices and web apps.</text>
+  <g transform="translate(66 273)">
+    <rect width="135" height="31" rx="7" fill="#113849" stroke="#35D8D0" stroke-opacity=".55"/>
+    <text x="67.5" y="20" text-anchor="middle" fill="#B6FFF3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1">BUILD</text>
+    <rect x="147" width="135" height="31" rx="7" fill="#113849" stroke="#35D8D0" stroke-opacity=".55"/>
+    <text x="214.5" y="20" text-anchor="middle" fill="#B6FFF3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1">TEST</text>
+    <rect x="294" width="135" height="31" rx="7" fill="#352A18" stroke="#F5B942" stroke-opacity=".75"/>
+    <text x="361.5" y="20" text-anchor="middle" fill="#FFE0A0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1">LEARN</text>
+  </g>
+  <text x="1210" y="318" text-anchor="end" fill="#8BA6B6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="2">1461YOGESH</text>
+</svg>
